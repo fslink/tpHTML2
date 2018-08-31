@@ -1,0 +1,22 @@
+{
+  "name": "tphtml2",
+  "version": "1.0.0",
+  "description": "tpdeHTML\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[D\u001b[\u001b\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C: tpHTML2 en node express ejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fslink/tpHTML2.git"
+  },
+  "keywords": [
+    "html"
+  ],
+  "author": "fslink",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fslink/tpHTML2/issues"
+  },
+  "homepage": "https://github.com/fslink/tpHTML2#readme"
+}
